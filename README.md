@@ -5,3 +5,6 @@ This is meant to be run from within Google CoLab and there are 2 blocks to it
 
 ###This will need to be the install block above everything else
 %pip install requests beautifulsoup4 tldextract aiosmtpd
+
+
+https://colab.research.google.com/drive/1MbMzxptrL1e3pd8Ck6KUtz6kpIQ6K0TA?usp=sharing
